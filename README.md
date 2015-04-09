@@ -11,3 +11,7 @@ Should you have any ideas, please do not hesitate to give us an [issue](https://
      \/|::/  /  /:/\/__/ \/\::/  / \:\/:/  /      \:\ \/__/  /:/\/__/ \/\:\/__/
        |:/  /   \/__/      /:/  /   \::/  /        \:\__\    \/__/       \/__/ 
        \/__/               \/__/     \/__/          \/__/                      
+
+# Github Pages
+
+Our pages are rendered by [MDwiki](https://github.com/Dynalon/mdwiki).
