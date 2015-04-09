@@ -11,7 +11,8 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!customizing.md#Theme_chooser)
   -->
 
-[gimmick:theme](darkly)
+<!--[gimmick:theme](darkly)-->
+[gimmick:theme (inverse: true)](flatly)
 
 
 <!--
@@ -66,6 +67,6 @@
 
 <!--
   -- Fork me
--->
+  -->
 
 [gimmick:ForkMeOnGitHub](https://github.com/NTHU-CTF-Group/NTHU_CTF_Notes)
