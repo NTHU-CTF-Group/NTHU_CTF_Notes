@@ -21,7 +21,6 @@
   -->
 
 [Notes](notes.md)
-  * [picoctf 2014](notes/picoctf-2014/picoctf-2014.md)
 
 <!-- A more complex navigation example: ----------------------------------------
 
@@ -61,9 +60,7 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
 
-<!--
 [gimmick:themechooser](Choose theme)
--->
 
 <!--
   -- Fork me
