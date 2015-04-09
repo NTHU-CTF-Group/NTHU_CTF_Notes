@@ -19,12 +19,8 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
 
-[Index](index.md)
-
-[Notes](pages/notes.md)
-
-  * # 2014
-  * [picoctf 2014](pages/notes/2014/picoctf-2014.md)
+[Notes](notes.md)
+  * [picoctf 2014](notes/picoctf-2014/picoctf-2014.md)
 
 <!-- A more complex navigation example: ----------------------------------------
 
