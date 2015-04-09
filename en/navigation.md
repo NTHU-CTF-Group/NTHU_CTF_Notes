@@ -21,6 +21,11 @@
 
 [Index](index.md)
 
+[Notes](pages/notes.md)
+
+  * # 2014
+  * [picoctf 2014](pages/notes/2014/picoctf-2014.md)
+
 <!-- A more complex navigation example: ----------------------------------------
 
 [Menu Item 1]()
