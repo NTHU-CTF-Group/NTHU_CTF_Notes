@@ -63,3 +63,9 @@
 <!--
 [gimmick:themechooser](Choose theme)
 -->
+
+<!--
+  -- Fork me
+-->
+
+[gimmick:ForkMeOnGitHub](https://github.com/NTHU-CTF-Group/NTHU_CTF_Notes)
