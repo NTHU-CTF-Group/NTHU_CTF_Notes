@@ -1,3 +1,3 @@
 # Miscellaneous
 
-* [Tyrannosaurus Hex](miscellaneous/Tyrannosaurus Hex.md)
+* ###[Tyrannosaurus Hex](Tyrannosaurus Hex.md)
