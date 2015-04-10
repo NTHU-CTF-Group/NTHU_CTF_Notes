@@ -1,3 +1,4 @@
-## [Miscellaneous](miscellaneous/index.md)
+# Pico CTF 2014
 
-## [Cryptography](cryptography/index.md)
+ * ##[Miscellaneous](miscellaneous/index.md)
+ * ##[Cryptography](cryptography/index.md)
